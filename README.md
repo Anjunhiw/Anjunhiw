@@ -24,7 +24,16 @@ API제공사이트:https://developers.themoviedb.org/3/authentication/how-do-i-g
 
 구글로그인
 
-3.ERD
+2-1.크롤링할 데이터
+-------------------
+
+영화/드라마목록
+
+스트리밍목록
+
+평점(네이버/TMDB)
+
+4.ERD
 --------------------
 ![erdv6](https://user-images.githubusercontent.com/118873482/204701646-95e23096-7597-40f9-a860-c8c733e295fe.PNG)
 
