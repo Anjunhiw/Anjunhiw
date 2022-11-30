@@ -1,6 +1,7 @@
 API
----------------
+-
 크롤링->기술문제->TMDB API로 데이터크롤링
+---------------
 TMDB:영화/드라마들의 정보를 제공해주는 사이트
 사이트:https://developers.themoviedb.org/3/authentication/how-do-i-generate-a-session-id
 
